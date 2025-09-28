@@ -5,3 +5,5 @@
 *.creds
 *.srl
 *.jks
+__pycache__
+.venv
